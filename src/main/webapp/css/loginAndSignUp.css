@@ -1,0 +1,74 @@
+#pre{
+	padding-top: 2px;
+	padding-left: 1000px;
+	
+}
+#login{
+	border: 1px solid;
+	background: #2f3859;
+	width: 400px;
+	height:300px;
+	margin:auto;
+	margin-top:20%;
+}
+
+#loginTable{
+	background: #2f3859;
+	text-align: right;
+	margin:auto;
+	margin-top:10%;
+}
+
+#ifNotUser{
+
+	background: #2f3859;
+	text-align: right;
+	margin:auto;
+	margin-top:5%;
+	
+}
+
+div#loginTable i{
+	position: absolute;
+    left: 75%;
+
+    color: orange;
+}
+
+#signUp{
+	border: 1px solid;
+	background: #2f3859;
+	width: 400px;
+	height:300px;
+	margin:auto;
+	margin-top:15%;
+}
+
+#signUpTable{
+	background: #2f3859;
+	text-align: right;
+	margin:auto;
+
+}
+
+.loginInput{
+	font-size:5px;
+	width: 200px;
+	height: 18px;
+}
+
+.signUpInput{
+	font-size:5px;
+	width: 200px;
+	height: 18px;
+	
+}
+
+.submit{
+	width: 210px;
+	font-weight:bold;
+	color:#D8BFD8;
+	border-color: 	#D8BFD8;
+	background-color: #E6E6FA;
+	
+}

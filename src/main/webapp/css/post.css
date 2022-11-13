@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+.post{
+	background: white;
+	width:600px;
+	height:423px;
+	margin:auto;
+	margin-top:300px;
+
+}
+
+.postTop{
+
+	background-color: #2f3859;
+	width:600px;
+	height:30px;
+
+}
+
+.postImg.postContent{
+	width:600px;
+	height:100%;
+}
+img{
+	
+	width:100%;
+	height:100%;
+}
+
+
+.postContent{
+	background-color: #2f3859;
+	margin-top:0%;
+}
+
+tr,td{
+	vertical-align: top;
+
+}
+
+td.postImg{
+	vertical-align:middle;
+	
+}
+
+#comment{
+
+		width:600px;
+
+}
+
+.comment_area{
+	
+}
+#submit:hover{background:rgb(104, 105, 140);}
+
+#submit{
+	
+	border:0px;
+	color:white;
+	background-color:#2f3859;
+	text-align: center;
+	width:100%;
+}
+textarea{
+	border:none;
+	resize:none;
+	background-color:#2f3859;
+	color:white;
+}

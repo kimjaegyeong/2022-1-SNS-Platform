@@ -1,0 +1,140 @@
+@charset "UTF-8";
+
+body {
+	background: rgb(238, 251, 245);
+
+}
+
+img{
+	
+	width:100%;
+	height:100%;
+}
+
+
+.interContent{
+	
+	width: 300px;
+
+	border: 1px solid;
+
+	margin-top:10px;
+	margin-left:200px;
+	background: white;
+	
+}
+.contentBox{
+	table-layout:fixed;
+	width:100%;
+	height:100%;
+	
+}
+
+.userIdInContent {
+	height:5%;
+	background:gray;
+}
+
+#commentArea{
+	height:7%;
+	background:gray;
+}
+
+.profile{
+	color:white;
+	border: 1px soild;
+	position: absolute;
+	top:100px;
+	right: 20px;
+	background: #2f3859;
+
+}
+
+td.profileTd:hover{background:rgb(104, 105, 140);}
+
+.search{
+	
+	top:2px;
+	right: 2px;
+	position:fixed;
+	
+}
+table, tr, td, th {
+	text-align: center;
+	
+}
+#pre{
+	padding-top: 2px;
+	padding-left: 1000px;
+	
+}
+#login{
+	border: 1px solid;
+	background: #2f3859;
+	width: 400px;
+	height:300px;
+	margin:auto;
+	margin-top:20%;
+}
+
+#loginTable{
+	background: #2f3859;
+	text-align: right;
+	margin:auto;
+	margin-top:10%;
+}
+
+#ifNotUser{
+
+	background: #2f3859;
+	text-align: right;
+	margin:auto;
+	margin-top:5%;
+	
+}
+
+div#loginTable i{
+	position: absolute;
+    left: 75%;
+
+    color: orange;
+}
+
+#signUp{
+	border: 1px solid;
+	background: #2f3859;
+	width: 400px;
+	height:300px;
+	margin:auto;
+	margin-top:15%;
+}
+
+#signUpTable{
+	background: #2f3859;
+	text-align: right;
+	margin:auto;
+
+}
+
+.loginInput{
+	font-size:5px;
+	width: 200px;
+	height: 18px;
+}
+
+.signUpInput{
+	font-size:5px;
+	width: 200px;
+	height: 18px;
+	
+}
+
+.submit{
+	width: 210px;
+	font-weight:bold;
+	color:#D8BFD8;
+	border-color: 	#D8BFD8;
+	background-color: #E6E6FA;
+	
+}
+
